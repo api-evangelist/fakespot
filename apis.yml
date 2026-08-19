@@ -31,7 +31,7 @@ x-status: discontinued
 x-acquired-by: mozilla
 x-acquired-date: '2023'
 x-discontinued-date: '2025-07-01'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
